@@ -8,7 +8,7 @@ AniMINT is a dataset for evaluating whether vision language models (VLMs) can un
 
 Modern user interfaces use animations to communicate feedback, state changes, progress, warnings, affordances, and other interaction-relevant information. AniMINT provides a dataset for studying how well multimodal models perceive, categorize, and interpret these dynamic UI signals.
 
-<img src="assets/collection.gif" alt="An icon bounces to indicate notification" width="100%"> 
+<img src="assets/collection.gif" alt="A collection of UI animations sampled from AniMINT dataset" width="100%"> 
 
 The dataset is hosted on Hugging Face:
 
